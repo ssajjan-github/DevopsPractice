@@ -5,4 +5,4 @@ Deployment on UAT hsa been completed.
 All Uat Webshops are up now.
 
 Thanks,
-Shivaraj
+Shivaraj G Sajjan
